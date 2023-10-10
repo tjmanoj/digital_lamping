@@ -1,0 +1,21 @@
+.main-bg{
+    background: url("image.png");
+    height: 100vh;
+    background-size: cover;
+    margin-top: 0px;
+}
+
+.custom-button{
+    height: 50px;
+    width: 120px;
+    background-color: yellow;
+    border-radius: 10px;
+    border-width: 0px;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 20px;
+}
+.button-position{
+    padding-top:500px;
+    padding-left:200px;
+}
